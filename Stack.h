@@ -1,3 +1,12 @@
+/*
+STACK
+Methods:
+    push(data)
+    pop()
+    top()
+    empty()
+*/
+
 #include<iostream>
 using namespace std;
 
